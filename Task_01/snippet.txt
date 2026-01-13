@@ -1,0 +1,20 @@
+<model-viewer src="kilpikonna.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" exposure="1">
+    <button class="Hotspot" slot="hotspot-1" data-position="-5.073591701641196m 0.5646607695163239m -0.2158805012669014m" data-normal="0.01157647662107991m 0.97487790706615m -0.22243887138574675m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pää</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-position="0.3235260982412269m 1.9044249517313772m -0.3568542915574026m" data-normal="-0.01793397850686856m 0.9613113265188904m -0.2748798026800202m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Kuori</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="5.3649044914385335m -0.5162685204717177m -0.6420858772441771m" data-normal="0.4861400997174601m 0.674925762132821m -0.5551063132915433m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pyrstö</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="7.679184627197821m 0.2186208449593643m -0.19413123262395665m" data-normal="0.0018522887950024928m 0.9999919236031279m -0.00356675689329176m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">https://sketchfab.com/3d-models/cc0-ad3aad6096e443f7a4048bb2e01c4425</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
