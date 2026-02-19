@@ -1,0 +1,22 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large package files
+Packages/*.tgz
