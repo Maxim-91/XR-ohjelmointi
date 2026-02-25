@@ -27,3 +27,12 @@ Implementation of an AR scene using the Vuforia engine.
     * [Tutorial Part 2](https://youtu.be/wICF7a4jJHs?si=Crrv0Ug8_2tBL4mn)
 
 ---
+
+## 🤖 Task 4 — Virtual Studio
+
+The implement a Virtual Studio using the Unreal Game Engine. The implemented environment/Animation are rendered and processed using the Davinci Resolve editing program.
+
+* **🎬 Demo:** [Watch on YouTube](https://youtu.be/bwxDX6h2j30)
+* **📖 Guided by:** [YouTube Tutorial](https://youtu.be/zQMIiJNDh_c?si=TG5hvWu22ZJfyr5r)
+
+---
