@@ -49,7 +49,7 @@ The implement a Virtual Studio using Unreal Engine. The implemented environment/
 
 ---
 
-## 🤖 Task 5 — Virtual Reality
+## 🎮 Task 5 — Virtual Reality
 
 Virtual Reality (VR) project developed in Unity using the XR Interaction Toolkit. Features simulated locomotion and object interaction without the need for physical VR hardware.
 
